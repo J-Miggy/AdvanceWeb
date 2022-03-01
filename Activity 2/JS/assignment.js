@@ -1,8 +1,4 @@
-console.log('Assignment')
-let x = 10;
-let y = 20;
+let n = 10;
+let m = 20;
 
-console.log('X: ', x);
-console.log('Y: ', y);
-
-console.log('Total: ', x+y);
+document.getElementById("assignment").innerHTML = n, m;

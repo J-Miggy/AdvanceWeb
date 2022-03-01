@@ -1,5 +1,5 @@
-var x = 5;
-var y = 6;
-var z = x + y;
+var k = 5;
+var b = 6;
+var v = k + b;
 
-console.log('Total of var: ', x+y+z);
+document.getElementById("variables").innerHTML = "V value: " + v;

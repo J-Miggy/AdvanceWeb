@@ -1,6 +1,3 @@
-let n = "Jose Miguel";
-let o = " will become a developer";
+var a = 99;
 
-console.log('', n+o);
-
-// SyntaxError: 'x' has already been declared
+document.getElementById("let").innerHTML = a;

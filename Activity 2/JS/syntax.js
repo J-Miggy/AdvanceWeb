@@ -1,10 +1,4 @@
-// How to create variables:
-var x;
-let y;
+let l; 
+l = 404;
 
-// How to use variables:
-x = 5;
-y = 6;
-let z = x + y;
-
-console.log('Value Z: ', x+y);
+document.getElementById("syntax").innerHTML = "Syntax CorrectionValid: " + l + "";

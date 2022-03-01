@@ -1,6 +1,5 @@
-let x, y, z;    // Statement 1
-x = 5;          // Statement 2
-y = 6;          // Statement 3
-z = x + y;      // Statement 4
-
-console.log('X + Y = ', x+y);
+let i, o, p;
+i = 1;
+o = 2;
+p = i + o;
+document.getElementById("statements").innerHTML = "Statements value: " + p + "";

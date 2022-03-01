@@ -1,2 +1,2 @@
-let x = 100 + 50;
-console.log('X Value: ', x);
+let s = 100 + 50;
+document.getElementById("arithmetic").innerHTML = s;

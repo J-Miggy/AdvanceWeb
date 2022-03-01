@@ -1,3 +1,2 @@
-const PI = 3.141592653589793;
-
-console.log('PI value: ', PI);
+const mig = ["First Name: Jose Miguel"];
+document.getElementById("const").innerHTML = mig;
