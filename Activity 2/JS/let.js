@@ -1,5 +1,6 @@
-let x = "John Doe";
+let n = "Jose Miguel";
+let o = " will become a developer";
 
-let x = 0;
+console.log('', n+o);
 
 // SyntaxError: 'x' has already been declared
